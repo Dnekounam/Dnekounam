@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dnekounam
+- 👋 Hi, I’m Danial Nekounam
 - 👀 I’m interested in Cybersecurity and ML
 - 🌱 I’m currently learning OWASP Top 10
 - 📫 How to reach me danialnekounam078@gmail.com
