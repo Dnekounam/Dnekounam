@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Danial Nekounam
-- 👀 I’m interested in Cybersecurity and ML
-- 🌱 I’m currently learning OWASP Top 10
+- I’m interested in Cybersecurity and ML
+- I’m currently learning OWASP Top 10
+- Enjoy to collabrate in open-source projects
 - 📫 How to reach me danialnekounam078@gmail.com
 
 <!---
