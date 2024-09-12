@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danial Nekounam
-- I’m interested in Cybersecurity and ML
+- I’m interested in Cybersecurity, Machine learning and Go programming
   
 - Enjoy to collabrate in open-source projects
 - 📫 How to reach me danialnekounam078@gmail.com
